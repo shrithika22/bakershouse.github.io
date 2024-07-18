@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.88ce5390.css",
-    "main.js": "/static/js/main.cff63475.js",
-    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
-    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
-    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
-    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
-    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
-    "static/media/bakery-girl-logo.webp": "/static/media/bakery-girl-logo.ec175f7b197f342b8a96.webp",
-    "static/media/1.9.webp": "/static/media/1.9.545a7ef4ff9d0dfa23b4.webp",
-    "static/media/1.1.webp": "/static/media/1.1.eaf86ada8d6130c6b23b.webp",
-    "static/media/1.10.webp": "/static/media/1.10.1a23f88fc8c724f4fd7c.webp",
-    "static/media/1.7.webp": "/static/media/1.7.e6b639f524f6125f8cf2.webp",
-    "static/media/1.8.webp": "/static/media/1.8.b218cdcf960a2138c043.webp",
-    "static/media/Bakery-girl.webp": "/static/media/Bakery-girl.2dae8de35575b6b65b0f.webp",
-    "static/media/1.5.webp": "/static/media/1.5.873bfdd9b106a67ee68b.webp",
-    "static/media/1.3.webp": "/static/media/1.3.51c6fa97f0f1455ca515.webp",
-    "static/media/1.2.webp": "/static/media/1.2.95bfd0c2f1829a9d5f6c.webp",
-    "static/media/1.6.webp": "/static/media/1.6.c1d1088127ee663d4935.webp",
-    "index.html": "/index.html",
-    "main.88ce5390.css.map": "/static/css/main.88ce5390.css.map",
-    "main.cff63475.js.map": "/static/js/main.cff63475.js.map"
+    "main.css": "/shrithika22/bakershouse.github.io/static/css/main.85710870.css",
+    "main.js": "/shrithika22/bakershouse.github.io/static/js/main.396c90d0.js",
+    "static/media/remixicon.svg?t=1590207869815": "/shrithika22/bakershouse.github.io/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/shrithika22/bakershouse.github.io/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/shrithika22/bakershouse.github.io/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/shrithika22/bakershouse.github.io/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/shrithika22/bakershouse.github.io/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/bakery-girl-logo.webp": "/shrithika22/bakershouse.github.io/static/media/bakery-girl-logo.ec175f7b197f342b8a96.webp",
+    "static/media/1.9.webp": "/shrithika22/bakershouse.github.io/static/media/1.9.545a7ef4ff9d0dfa23b4.webp",
+    "static/media/1.1.webp": "/shrithika22/bakershouse.github.io/static/media/1.1.eaf86ada8d6130c6b23b.webp",
+    "static/media/1.10.webp": "/shrithika22/bakershouse.github.io/static/media/1.10.1a23f88fc8c724f4fd7c.webp",
+    "static/media/1.7.webp": "/shrithika22/bakershouse.github.io/static/media/1.7.e6b639f524f6125f8cf2.webp",
+    "static/media/1.8.webp": "/shrithika22/bakershouse.github.io/static/media/1.8.b218cdcf960a2138c043.webp",
+    "static/media/Bakery-girl.webp": "/shrithika22/bakershouse.github.io/static/media/Bakery-girl.2dae8de35575b6b65b0f.webp",
+    "static/media/1.5.webp": "/shrithika22/bakershouse.github.io/static/media/1.5.873bfdd9b106a67ee68b.webp",
+    "static/media/1.3.webp": "/shrithika22/bakershouse.github.io/static/media/1.3.51c6fa97f0f1455ca515.webp",
+    "static/media/1.2.webp": "/shrithika22/bakershouse.github.io/static/media/1.2.95bfd0c2f1829a9d5f6c.webp",
+    "static/media/1.6.webp": "/shrithika22/bakershouse.github.io/static/media/1.6.c1d1088127ee663d4935.webp",
+    "index.html": "/shrithika22/bakershouse.github.io/index.html",
+    "main.85710870.css.map": "/shrithika22/bakershouse.github.io/static/css/main.85710870.css.map",
+    "main.396c90d0.js.map": "/shrithika22/bakershouse.github.io/static/js/main.396c90d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ce5390.css",
-    "static/js/main.cff63475.js"
+    "static/css/main.85710870.css",
+    "static/js/main.396c90d0.js"
   ]
 }
