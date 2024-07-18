@@ -1,6 +1,7 @@
 {
   "name": "ecommerce-website-1",
   "version": "0.1.0",
+  "homepage": "https://github.com/shrithika22/bakershouse.github.io",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.2",
